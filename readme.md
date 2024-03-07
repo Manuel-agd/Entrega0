@@ -5,4 +5,4 @@ Se creo el repositorio **Entrega0** y desde la terminal de Visualcode se hizo la
 Se eligieron los archivos que serian guardados en Github, subiendo los primeros archivos con el comentario de **primero**.
 Por ultimo se creo un nuevo archivo html en la nueva rama llamada **development**, al finalizar se hizo un merge de la rama que hemos creado con la rama **master**.
 Verificando por ultimo los cambios realizados en github.
-
+**Comentario de prueba para hacer un cambio y agregarlo al staging**
